@@ -40,7 +40,7 @@ This is the frontend application for client users of the AppetaFood platform. Us
 
 3. **Create a `.env` file:**
    ```plaintext
-   REACT_APP_BACKEND_URL="http://localhost:4000"
+   REACT_APP_BACKEND_URL=https://backend-appeta.onrender.com"
    ```
 
 4. **Start the development server:**
