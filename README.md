@@ -1,5 +1,3 @@
-Sure, here is the README for the frontend (client users):
-
 ```markdown
 # AppetaFood Frontend (Client Users)
 
